@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="6808c9ec14bffbd16c96d2f1555248ae780122f4">
+        <dex dex="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9fd8c32d8f9fa180d5671adf24b882d1750318ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/libs/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="02e433eb0fda11fe7170cf8214ba2f4d165c29b6">
+        <dex dex="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.client.mqttv3-1.0.2_dcc7a71c3680c882aae1ab0ef8f8e5308aea28b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rhuang/Documents/Android/MyIDE/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_5d4f80176ff9ce31e7179513321001ebc5d6c86e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/libs/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="3b8420e57139cc627a55be0c17b6687e92d7460f">
+        <dex dex="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/build/intermediates/transforms/dex/debug/folders/1000/2/org.eclipse.paho.android.service-1.0.2_64c63a1390748296df188f97b24676666891f035/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4bca2e329e8347028df8d874bad55bcf326687f8">
+        <dex dex="/Users/rhuang/Documents/Ti/ruitobes-sensortag-20-android/sensortag20/BleSensorTag/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_19e9384ffb3a0af333a0bcd8d68956835e71480c/classes.dex" />
+    </item>
+
+</items>
